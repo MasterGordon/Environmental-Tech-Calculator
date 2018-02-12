@@ -1,7 +1,0 @@
-{
-	
-"type":"other",
-"name": "Blaze Powder",
-	"disabled": true,
-	"crafting": ["Blaze Rod"]
-}

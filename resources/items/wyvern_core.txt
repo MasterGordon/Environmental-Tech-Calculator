@@ -1,7 +1,0 @@
-{
-	
-"type":"other",
-"name": "Wyvern Core",
-	"index": 2,
-	"crafting": ["Draconium Ingot", "draconic_core", "Draconium Ingot", "draconic_core", "nether_star", "draconic_core", "Draconium Ingot", "draconic_core", "Draconium Ingot"]
-}

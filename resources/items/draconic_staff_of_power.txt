@@ -1,7 +1,0 @@
-{
-	
-"type":"tools",
-"name": "Draconic Staff of Power",
-	"index": 11,
-	"crafting": ["draconic_sword", "draconic_shovel", "draconic_pickaxe", "awakened_draconium_ingot", "awakened_draconium_ingot", "awakened_draconium_ingot", "awakened_draconium_ingot", "awakened_draconium_ingot", "awakened_core"]
-}

@@ -1,6 +1,0 @@
-{
-	"type": "cores",
-	"name": "Energy Core Tier 1",
-	"index": 0,
-	"crafting": ["energy_core", "energy_core_stabilizer", "energy_core_stabilizer", "energy_core_stabilizer", "energy_core_stabilizer"]
-}

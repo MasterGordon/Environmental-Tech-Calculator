@@ -1,7 +1,0 @@
-{
-	
-"type":"tools",
-"name": "Draconic Hoe",
-	"index": 10,
-	"crafting": ["diamond_hoe", "awakened_draconium_ingot", "awakened_draconium_ingot", "awakened_core", "draconic_energy_core"]
-}

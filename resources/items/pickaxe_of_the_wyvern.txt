@@ -1,7 +1,0 @@
-{
-	
-"type":"tools",
-"name": "Pickaxe of the Wyvern",
-	"index": 2,
-	"crafting": ["diamond_pickaxe", "Draconium Ingot", "Draconium Ingot", "wyvern_core", "wyvern_energy_core"]
-}

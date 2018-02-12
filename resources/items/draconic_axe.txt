@@ -1,7 +1,0 @@
-{
-	
-"type":"tools",
-"name": "Draconic Axe",
-	"index": 9,
-	"crafting": ["axe_of_the_wyvern", "awakened_draconium_ingot", "awakened_draconium_ingot", "awakened_core", "draconic_energy_core"]
-}

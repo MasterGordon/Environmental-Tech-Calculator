@@ -1,7 +1,0 @@
-{
-	
-"type":"other",
-"name": "Diamond Leggings",
-	"disabled": true,
-	"crafting": ["Diamond", "Diamond", "Diamond", "Diamond", "Diamond", "Diamond", "Diamond" ]
-}

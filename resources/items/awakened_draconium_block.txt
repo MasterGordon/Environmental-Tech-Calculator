@@ -1,8 +1,0 @@
-{
-	
-"type":"blocks",
-"name": "Awakened Draconium Block",
-	"index": 0,
-	"count": 4,
-	"crafting": ["draconic_core", "draconic_core", "draconic_core", "draconic_core", "draconic_core", "draconic_core", "dragon_heart", "draconium_block", "draconium_block", "draconium_block", "draconium_block"]
-}

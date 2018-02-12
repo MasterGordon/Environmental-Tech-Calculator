@@ -1,6 +1,0 @@
-{
-	"type": "cores",
-	"name": "Energy Core Tier 3",
-	"index": 2,
-	"crafting": ["energy_core", "energy_core_stabilizer" , "energy_core_stabilizer" , "energy_core_stabilizer" , "energy_core_stabilizer" , "draconium_block", "draconium_block", "draconium_block", "draconium_block", "draconium_block", "draconium_block", "draconium_block", "draconium_block", "draconium_block", "draconium_block", "draconium_block", "draconium_block", "draconium_block", "draconium_block", "draconium_block", "draconium_block", "draconium_block", "draconium_block", "draconium_block", "draconium_block", "draconium_block", "draconium_block", "draconium_block", "draconium_block", "draconium_block", "draconium_block"]
-}

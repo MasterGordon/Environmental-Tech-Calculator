@@ -1,7 +1,0 @@
-{
-	
-"type":"other",
-"name": "Golden Apple",
-	"disabled": true,
-	"crafting": ["Apple", "Gold Ingot", "Gold Ingot", "Gold Ingot", "Gold Ingot", "Gold Ingot", "Gold Ingot", "Gold Ingot", "Gold Ingot"]
-}

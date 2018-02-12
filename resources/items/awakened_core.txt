@@ -1,7 +1,0 @@
-{
-	
-"type":"other",
-"name": "Awakened Core",
-	"index": 3,
-	"crafting": ["wyvern_core", "wyvern_core", "wyvern_core", "wyvern_core", "awakened_draconium_ingot", "awakened_draconium_ingot", "awakened_draconium_ingot", "awakened_draconium_ingot", "awakened_draconium_ingot", "nether_star"]
-}

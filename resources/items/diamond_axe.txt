@@ -1,7 +1,0 @@
-{
-	
-"type":"other",
-"name": "Diamond Axe",
-	"disabled": true,
-	"crafting": ["Diamond", "Diamond", "Diamond", "Stick", "Stick"]
-}

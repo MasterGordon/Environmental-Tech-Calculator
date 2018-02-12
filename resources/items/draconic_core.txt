@@ -1,7 +1,0 @@
-{
-	
-"type":"other",
-"name": "Draconic Core",
-	"index": 1,
-	"crafting": ["Draconium Ingot", "Gold Ingot", "Draconium Ingot", "Gold Ingot", "Diamond", "Gold Ingot", "Draconium Ingot", "Gold Ingot", "Draconium Ingot"]
-}

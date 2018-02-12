@@ -1,7 +1,0 @@
-{
-	
-"type":"tools",
-"name": "Axe of the Wyvern",
-	"index": 4,
-	"crafting": ["diamond_axe", "Draconium Ingot", "Draconium Ingot", "wyvern_core", "wyvern_energy_core"]
-}

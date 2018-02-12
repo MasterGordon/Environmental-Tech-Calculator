@@ -1,7 +1,0 @@
-{
-	
-"type":"tools",
-"name": "Bow of the Wyvern",
-	"index": 1,
-	"crafting": ["bow", "Draconium Ingot", "Draconium Ingot", "wyvern_core", "wyvern_energy_core"]
-}

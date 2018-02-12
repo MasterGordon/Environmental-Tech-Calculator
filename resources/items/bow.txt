@@ -1,7 +1,0 @@
-{
-	
-"type":"other",
-"name": "Bow",
-	"disabled": true,
-	"crafting": ["String", "String", "String", "Stick", "Stick", "Stick"]
-}

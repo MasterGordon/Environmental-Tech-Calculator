@@ -1,7 +1,0 @@
-{
-	
-"type":"blocks",
-"name": "Chaotic Fusion Crafting Injector",
-	"index": 7,
-	"crafting": ["Diamond", "Diamond", "Diamond", "Diamond", "chaotic_core", "draconic_fusion_crafting_injector", "Dragon Egg"]
-}

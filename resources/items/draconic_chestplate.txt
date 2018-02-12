@@ -1,7 +1,0 @@
-{
-	
-"type":"armor",
-"name": "Draconic Chestplate",
-	"index": 5,
-	"crafting": ["wyvern_chestplate", "awakened_draconium_ingot", "awakened_draconium_ingot", "awakened_core", "draconic_energy_core"]
-}
