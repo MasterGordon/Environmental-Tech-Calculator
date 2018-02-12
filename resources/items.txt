@@ -1,3 +1,48 @@
+Void Ore Miner Controller Tier 1-6
+Void Ressource Miner Controller Tier 1-6
+Void Botanic Miner Controller Tier 1-6
+Solar Array Controller Tier 1-6
+Structure Frame Tier 1-6
+Litherite Crystal / - Block
+Erodium Crystal / - Block
+Kyronite Crystal / - Block
+Pladium Crystal / - Block
+Ionite Crystal / - Block
+Aethium Crystal / - Block
+Laser Lens
+Solar Cell Crystal 1-6
+Laser Core
+Null Modifier
+Structure Panel
+Photovoltaic Cell
+Interconnect
+Connector
+Black Concrete
+Black Concrete Powder
+Diode
+Glass
+Diamond Block
+Iron Ingot
+Redstone
+Chorus Flower
+Obsidian
+Gravel
+Black Dye
+Sand
+Lapis Lazuli Block
+lapis Lazuli
+Nether Quartz
+Gold Nugget
+Gold Ingot
+Iron bars
+Diamond
+Emerald
+Nether Star
+Prismarine Shard
+
+
+
+
 
 ../energy_cores/tier_1
 ../energy_cores/tier_2
