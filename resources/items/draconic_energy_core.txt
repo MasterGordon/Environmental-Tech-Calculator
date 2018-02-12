@@ -1,0 +1,7 @@
+{
+	
+"type":"other",
+"name": "Draconic Energy Core",
+	"index": 6,
+	"crafting": ["awakened_draconium_ingot", "awakened_draconium_ingot", "awakened_draconium_ingot", "awakened_draconium_ingot", "wyvern_energy_core", "wyvern_energy_core", "wyvern_energy_core", "wyvern_energy_core", "wyvern_core"]
+}

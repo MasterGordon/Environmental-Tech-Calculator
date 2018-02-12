@@ -1,0 +1,7 @@
+{
+	
+"type":"other",
+"name": "Block of Redstone",
+	"disabled": true,
+	"crafting": ["Redstone", "Redstone", "Redstone", "Redstone", "Redstone", "Redstone", "Redstone", "Redstone", "Redstone"]
+}

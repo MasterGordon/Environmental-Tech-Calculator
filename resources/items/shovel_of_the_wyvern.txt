@@ -1,0 +1,7 @@
+{
+	
+"type":"tools",
+"name": "Shovel of the Wyvern",
+	"index": 3,
+	"crafting": ["diamond_shovel", "Draconium Ingot", "Draconium Ingot", "wyvern_core", "wyvern_energy_core"]
+}

@@ -1,0 +1,7 @@
+{
+	
+"type":"blocks",
+	"index": 1,
+"name": "Particle Generator",
+	"crafting": ["block_of_redstone", "block_of_redstone", "block_of_redstone", "block_of_redstone", "draconic_core", "Blaze Rod", "Blaze Rod", "Blaze Rod", "Blaze Rod"]
+}

@@ -1,0 +1,7 @@
+{
+	
+"type":"blocks",
+"name": "Energy Core Stabilizer",
+	"index": 2,
+	"crafting": ["particle_generator", "Diamond", "Diamond", "Diamond", "Diamond"]
+}

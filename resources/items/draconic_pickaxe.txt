@@ -1,0 +1,7 @@
+{
+	
+"type":"tools",
+"name": "Draconic Pickaxe",
+	"index": 7,
+	"crafting": ["pickaxe_of_the_wyvern", "awakened_draconium_ingot", "awakened_draconium_ingot", "awakened_core", "draconic_energy_core"]
+}

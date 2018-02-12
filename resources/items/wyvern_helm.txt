@@ -1,0 +1,7 @@
+{
+	
+"type":"armor",
+"name": "Wyvern Helm",
+	"index": 0,
+	"crafting": ["diamond_helmet", "Draconium Ingot", "Draconium Ingot", "Draconium Ingot", "Draconium Ingot", "Draconium Ingot", "Draconium Ingot", "wyvern_core", "wyvern_energy_core"]
+}

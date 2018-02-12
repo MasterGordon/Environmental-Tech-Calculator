@@ -1,0 +1,8 @@
+{
+	
+"type":"other",
+"name": "Diamond Hoe",
+	"index": 10,
+	"disabled": true,
+	"crafting": ["Diamond", "Diamond", "Stick", "Stick"]
+}

@@ -1,0 +1,7 @@
+{
+	
+"type":"blocks",
+"name": "Wyvern Fusion Crafting Injector",
+	"index": 5,
+	"crafting": ["Block of Diamond", "Block of Diamond", "Block of Diamond", "Block of Diamond", "basic_fusion_crafting_injector", "wyvern_core", "wyvern_core", "wyvern_energy_core", "wyvern_energy_core" ]
+}

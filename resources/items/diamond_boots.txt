@@ -1,0 +1,12 @@
+{
+	
+"type":"other",
+"name": "Diamond Boots",
+	"disabled": true,
+"crafting":[
+"Diamond",
+"Diamond",
+"Diamond",
+"Diamond"
+]
+}

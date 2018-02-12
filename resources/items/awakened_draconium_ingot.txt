@@ -1,0 +1,8 @@
+{
+	
+"type":"other",
+"name": "Awakend Draconium Ingot",
+	"disabled": true,
+	"count": 9,
+	"crafting": ["awakened_draconium_block"]
+}

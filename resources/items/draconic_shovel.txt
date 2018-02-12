@@ -1,0 +1,7 @@
+{
+	
+"type":"tools",
+"name": "Draconic Shovel",
+	"index": 8,
+	"crafting": ["shovel_of_the_wyvern", "awakened_draconium_ingot", "awakened_draconium_ingot", "awakened_core", "draconic_energy_core"]
+}

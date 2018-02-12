@@ -1,0 +1,7 @@
+{
+	
+"type":"blocks",
+"name": "Basic Fusion Crafting Injector",
+	"index": 4,
+	"crafting": ["Diamond", "Diamond", "Stone", "Stone", "Stone", "Stone", "Stone", "block_of_iron", "draconic_core"]
+}

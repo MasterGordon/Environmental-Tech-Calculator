@@ -1,0 +1,7 @@
+{
+	
+"type":"other",
+"name": "Eye of Ender",
+	"disabled": true,
+	"crafting": ["Ender Pearl", "blaze_powder"]
+}

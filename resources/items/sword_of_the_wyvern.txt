@@ -1,0 +1,7 @@
+{
+	
+"type":"tools",
+"name": "Sword of the Wyvern",
+	"index": 0,
+	"crafting": ["diamond_sword", "Draconium Ingot", "Draconium Ingot", "wyvern_core", "wyvern_energy_core"]
+}

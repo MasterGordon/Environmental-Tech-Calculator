@@ -1,0 +1,6 @@
+{
+	"type": "upgrades",
+	"name": "Upgrade Tier Draconic",
+	"index": 2,
+	"crafting": ["nether_star", "nether_star", "wyvern_core", "wyvern_core", "block_of_emerald", "block_of_emerald", "awakened_core"]
+}

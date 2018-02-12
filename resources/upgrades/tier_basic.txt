@@ -1,0 +1,6 @@
+{
+	"type": "upgrades",
+	"name": "Upgrade Tier Basic",
+	"index": 0,
+	"crafting": ["Diamond", "Diamond", "draconic_core", "golden_apple", "golden_apple", "eye_of_ender", "eye_of_ender"]
+}

@@ -1,0 +1,7 @@
+{
+	
+"type":"armor",
+"name": "Wyvern Leggings",
+	"index": 2,
+	"crafting": ["diamond_leggings", "Draconium Ingot", "Draconium Ingot", "Draconium Ingot", "Draconium Ingot", "Draconium Ingot", "Draconium Ingot", "wyvern_core", "wyvern_energy_core"]
+}

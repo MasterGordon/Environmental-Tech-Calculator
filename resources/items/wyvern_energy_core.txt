@@ -1,0 +1,7 @@
+{
+	
+"type":"other",
+"name": "Wyvern Energy Core",
+	"index": 5,
+	"crafting": ["Draconium Ingot", "Draconium Ingot", "Draconium Ingot", "Draconium Ingot", "block_of_redstone", "block_of_redstone", "block_of_redstone", "block_of_redstone", "draconic_core"]
+}

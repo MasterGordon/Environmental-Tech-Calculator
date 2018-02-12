@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Draconic Calculator</title>
+<link rel="stylesheet" href="jquery-ui/jquery-ui.min.css">
+<link rel="stylesheet" href="css/main.css">
+<script type="text/javascript" src="jquery-ui/external/jquery/jquery.js"></script>
+<script type="text/javascript" src="jquery-ui/jquery-ui.js"></script>
+</head>
+<body>
+	<script src="js/main.js"></script>
+	<div id="menubox">
+		<h1 class="ui-widget" style="text-align: center;">Add Items</h1>
+		<ul id="menu">
+			<li>
+				<div>Blocks</div>
+				<ul id="k_blocks">
+				</ul>
+			</li>
+			<li>
+				<div>Tools</div>
+				<ul id="k_tools">
+				</ul>
+			</li>
+			<li>
+				<div>Armor</div>
+				<ul id="k_armor">
+				</ul>
+			</li>
+			<li>
+				<div>Energy Cores</div>
+				<ul id="k_cores">
+				</ul>
+			</li>
+			<li>
+				<div>Upgrades</div>
+				<ul id="k_upgrades">
+				</ul>
+			</li>
+			<li>
+				<div>Other</div>
+				<ul id="k_other">
+				</ul>
+			</li>
+		</ul>
+	</div>
+	<script type="text/javascript">
+		$("#menu").menu();
+		$("ul").css("width", "250px")
+	</script>
+	<div id="crafting">
+		<h1 class="ui-widget" style="text-align: center;width: 320px;">Items to Craft</h1>
+		<div id="tocraft"></div>
+		<span style="display: inline-block; width: 90%;"></span> <br>
+		<button id="calc" style="left: 5px;">Calculate</button>
+	</div>
+	<div id="outputbox">
+		<h1 class="ui-widget" style="text-align: center;">Requiered Items</h1>
+		<br>
+		<div class="ui-widget" id="output"></div>
+		<br>
+		<div class="ui-widget" id="outputfull"><h1 class="ui-widget">=</h1><br></div>
+		<span style="display: inline-block; width: 90%;"></span> <br>
+	</div>
+</body>
+<div id="container">
+	<div class="ui-widget" id="bottom-left">
+		Release 1.0<br>
+		Thanks to Pyramidalist and his community<br>&copy; MasterGordon &
+		Ph3nix
+	</div>
+</div>
+</html>

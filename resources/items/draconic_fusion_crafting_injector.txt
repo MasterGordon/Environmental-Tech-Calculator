@@ -1,0 +1,7 @@
+{
+	
+"type":"blocks",
+"name": "Draconic Fusion Crafting Injector",
+	"index": 6,
+	"crafting": ["Block of Diamond", "Block of Diamond", "Block of Diamond", "Block of Diamond", "wyvern_energy_core", "wyvern_energy_core", "awakened_draconium_block", "awakened_draconium_block", "wyvern_fusion_crafting_injector"]
+}

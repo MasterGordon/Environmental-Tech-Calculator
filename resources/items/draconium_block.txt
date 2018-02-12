@@ -1,0 +1,7 @@
+{
+	
+"type":"blocks",
+"name": "Draconium Block",
+"disabled": true,
+	"crafting": ["Draconium Ingot", "Draconium Ingot", "Draconium Ingot", "Draconium Ingot", "Draconium Ingot", "Draconium Ingot", "Draconium Ingot", "Draconium Ingot", "Draconium Ingot" ]
+}

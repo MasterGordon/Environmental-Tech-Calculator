@@ -1,0 +1,72 @@
+.ui-spinner {
+	width: 80px;
+	margin-top: 3px;
+}
+
+#menu {
+	left: 5px;
+	width: 250px;
+}
+
+#menubox {
+	height: 100%;
+	top: 0px;
+	left: 0px;
+	position: fixed;
+	border-left-width: 2px;
+	border-color: black;
+	border-left-style: solid;
+	z-index: 10;
+}
+
+#crafting {
+	height: 100%;
+	top: 0px;
+	left: 320px;
+	position: fixed;
+	border-left-width: 2px;
+	border-color: black;
+	border-left-style: solid;
+}
+
+#outputbox {
+	height: 100%;
+	top: 0px;
+	left: 640px;
+	position: fixed;
+	border-left-width: 2px;
+	border-right-width: 2px;
+	border-color: black;
+	border-left-style: solid;
+	border-right-style: solid;
+}
+
+.splitable {
+	font-weight: 700;
+	cursor: pointer;
+}
+
+.notsplitable {
+	
+}
+
+#bottom-left {
+	right: 5px;
+	bottom: 0;
+	position: fixed;
+}
+
+#output , #outputfull {
+	padding-left: 5px;
+}
+
+#outputfull {
+	border-top-width: 2px;
+	border-color: black;
+	border-top-style: solid;
+	width: 320px;
+}
+
+#tocraft {
+	padding-left: 5px;
+}

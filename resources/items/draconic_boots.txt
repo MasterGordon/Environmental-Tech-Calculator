@@ -1,0 +1,7 @@
+{
+	
+"type":"armor",
+"name": "Draconic Boots",
+	"index": 7,
+	"crafting": ["wyvern_boots", "awakened_draconium_ingot", "awakened_draconium_ingot", "awakened_core", "draconic_energy_core"]
+}
